@@ -1,3 +1,5 @@
+This page has been archived and further updates will be on Christopher’s [GitHub page]( https://github.com/hally166/XDP-sort-statistics).
+
 # XDP sort statistics extractor
 
 Copyright (c) 2017 Genome Research Ltd.
